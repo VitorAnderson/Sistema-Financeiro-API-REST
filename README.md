@@ -49,18 +49,6 @@ Permite cadastrar, listar, atualizar e excluir receitas e despesas de forma simp
 
 ---
 
-## 🧪 Exemplo de requisição (POST)
-
-```json
-{
-  "descricao": "Salário",
-  "valor": 3500.00,
-  "tipo": "RECEITA",
-  "data": "2025-04-11"
-}
-
----
-
 ##❌ Exemplo de retorno de erro (validação)
 
 {
@@ -82,3 +70,19 @@ cd sistema-financeiro
 3. Abra na sua IDE (IntelliJ, Eclipse, VS Code)
 
 4. Rode a classe principal: SistemaFinanceiroApplication.java
+
+---
+
+## 🧪 Exemplo de requisição (POST)
+
+```json
+{
+  "descricao": "Salário",
+  "valor": 3500.00,
+  "tipo": "RECEITA",
+  "data": "2025-04-11"
+}
+
+---
+
+
