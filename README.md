@@ -82,7 +82,3 @@ cd sistema-financeiro
   "tipo": "RECEITA",
   "data": "2025-04-11"
 }
-
----
-
-
