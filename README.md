@@ -49,7 +49,7 @@ Permite cadastrar, listar, atualizar e excluir receitas e despesas de forma simp
 
 ---
 
-##❌ Exemplo de retorno de erro (validação)
+## ❌ Exemplo de retorno de erro (validação)
 
 {
   "valor": "O valor deve ser maior que zero"
