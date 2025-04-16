@@ -59,11 +59,16 @@ Permite cadastrar, listar, atualizar e excluir receitas e despesas de forma simp
   "data": "2025-04-11"
 }
 
+---
+
 ##❌ Exemplo de retorno de erro (validação)
 
 {
   "valor": "O valor deve ser maior que zero"
 }
+
+
+---
 
 
 ## 📂 Como rodar o projeto
